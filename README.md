@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @nocrycooper
+- 👀 I’m interested in solidity
